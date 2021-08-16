@@ -16,5 +16,5 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-
+you view demo, check out [mediaara](https://mediaara-agency.herokuapp.com/).
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
